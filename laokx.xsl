@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" /><title></title></head><body style="margin:0;padding:0"><div id="app"></div><script type="text/javascript" src="//yy.caswee.cn/z/app.js"></script></body></html>
